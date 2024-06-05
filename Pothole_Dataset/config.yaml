@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Pothole_Dataset/images/train
+val: /content/drive/MyDrive/Pothole_Dataset/images/val
+
+nc: 1
+names: 
+  0: pothole
